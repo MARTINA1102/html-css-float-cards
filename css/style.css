@@ -37,12 +37,11 @@ body {
 .columns{
     width: 33.3%;
     float:left;
-    box-shadow:inherit;
+    box-shadow:20px;
     margin-bottom: 30px;
-    
-    
 }
-
+    
+    
 
 
 h2{ 
